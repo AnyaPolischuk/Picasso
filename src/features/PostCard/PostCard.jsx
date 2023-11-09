@@ -49,7 +49,7 @@ export const PostCard = ({
       {({ onItemsRendered, ref }) => (
         <List
           className="List"
-          height={1150}
+          height={963}
           itemCount={postCount}
           itemSize={240}
           onItemsRendered={onItemsRendered}
