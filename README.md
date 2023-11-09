@@ -4,10 +4,10 @@
 
 Open [https://654d28ba9975561453046e81--warm-fudge-f30e4b.netlify.app/](https://654d28ba9975561453046e81--warm-fudge-f30e4b.netlify.app/)
 
-Используя React, RTK Query, React Router DOM 6, JSON Placeholder и FSD-архитектуру сделайте простое приложение:
-1. главная страница - список постов (бесконечный скролл + виртуализация)
-2. каждый пост в списке - это строка: номер + заголовок + описание обрезанное "...", если не влезает + кнопка "просмотр"
-3. кнопка "просмотр" ведет на отдельный роут, где отображается полная информация о посте в произвольной форме + кнопка "назад"
+Using React, RTK Query, React Router DOM 6, JSON Placeholder and FSD architecture make a simple application:
+1. main page - list of posts (endless scroll + virtualization)
+2. each post in the list is a line: number + title + description trimmed with "..." if it doesn't fit + "view" button
+3. the “view” button leads to a separate route, where complete information about the post is displayed in free form + a “back” button
 
 ## Available Scripts
 
