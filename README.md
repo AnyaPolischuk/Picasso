@@ -2,7 +2,7 @@
 
 ## Deploy 
 
-Open [https://654d2f3afba0ef18e2c897db--silver-moonbeam-e87258.netlify.app/](https://654d2f3afba0ef18e2c897db--silver-moonbeam-e87258.netlify.app/)
+Open [https://654d3299421a7f1b694b50a9--precious-entremet-87890f.netlify.app/](https://654d3299421a7f1b694b50a9--precious-entremet-87890f.netlify.app/)
 
 Using React, RTK Query, React Router DOM 6, JSON Placeholder and FSD architecture make a simple application:
 1. main page - list of posts (endless scroll + virtualization)
