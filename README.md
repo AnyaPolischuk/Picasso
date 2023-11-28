@@ -1,4 +1,3 @@
-# Test task from Picasso
 
 ## Deploy 
 
